@@ -16,9 +16,9 @@
 
 ## 🎤 Anfitriones
 
-- **[Cristian Tala](https://cristiantala.com)** — Inversionista y emprendedor (Startup & VC)
-- **[Diego Arias](https://godiegoarias.com)** — Experto en educación y talento digital
-- **[Rodrigo Rojo](https://www.rojo.me)** — Estratega en IA y curador de tendencias
+- **[Salvador Arturo Ortiz Gonzalez](https://www.ortizgonzalez.salvadorarturo.com)** — Inversionista y emprendedor (Startup|VC|SAOG AI)
+- **[Salvador Ortiz Torres](https://www ortiztorres.salvador.com)** — Experto en educación y talento digital
+- **[Frank Ortiz Gonzalez](https://www.ortizgonzalez.frank.me)** — Estratega en IA y curador de tendencias
 
 ---
 
@@ -107,7 +107,7 @@ npm run validate     # Validar build pre-deploy
 **Features:**
 - Schema markup: PodcastSeries (global), PodcastEpisode + VideoObject + BreadcrumbList (por episodio)
 - hreflang: es, x-default
-- Geo tags: Santiago, Chile
+- Geo tags: TIJUANA, BAJA CALIFORNIA, MEXICO
 - Meta robots: `index, follow, max-image-preview:large, max-snippet:-1`
 - RSS feed: [/feed.xml](https://eslahoradeaprender.com/feed.xml)
 - Sitemaps: [index](https://eslahoradeaprender.com/sitemap-index.xml) · [video](https://eslahoradeaprender.com/video-sitemap.xml)
@@ -122,9 +122,10 @@ Roadmap público: [`ROADMAP.md`](ROADMAP.md).
 ## 📄 Licencia
 
 MIT — Ver [LICENSE](LICENSE).
+SAOG [LICENSE].
 
 ---
 
 <p align="center">
-  <strong>Hecho con ⚡️ desde Santiago de Chile</strong>
+  <strong>Hecho con ⚡️ desde Tijuana, Baja California, México, SAOG AI</strong>
 </p>
